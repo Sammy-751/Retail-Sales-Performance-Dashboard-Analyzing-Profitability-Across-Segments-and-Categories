@@ -1,6 +1,6 @@
 # Retail-Sales-Performance-Dashboard-Analyzing-Profitability-Across-Segments-and-Categories
 
-### 🧭 Business Problem
+## 🧭 Business Problem
 
 Retail stores often struggle to understand sales performance across different regions, customer segments, and product categories. Without a clear visual summary, it’s difficult to:
 
@@ -14,7 +14,7 @@ Retail stores often struggle to understand sales performance across different re
 
 The goal of this dashboard is to provide a comprehensive overview of sales performance to help business managers track revenue, profit, and efficiency over time.
 
-### 🎯 Project Objective
+## 🎯 Project Objective
 
 To build an interactive Excel dashboard that:
 
@@ -26,7 +26,7 @@ To build an interactive Excel dashboard that:
 
 - Helps stakeholders make data-informed decisions on growth and strategy.
 
-### 📊 Key Metrics Displayed
+## 📊 Key Metrics Displayed
 
 - Total Sales (KES)
 
@@ -44,7 +44,9 @@ To build an interactive Excel dashboard that:
 
 - Order Class Distribution (pie chart)
 
-### 💡 Insights Highlighted
+## 💡 Insights Highlighted
+
+ ![Image](Screenshots/SuperstoreScreenshot.jpg)
 
 - Technology category and Consumer segment are major revenue drivers.
 
@@ -54,24 +56,41 @@ To build an interactive Excel dashboard that:
 
 - Standard Class orders dominate overall shipping, suggesting optimization potential in other classes.
 
-### 🧰 Tools Used
+## 🧰 Tools Used
 
 Microsoft Excel (Dashboard design, Pivot Tables, Charts, Slicers)
 
 Superstore Sales Dataset (sample retail data)
 
-### 🏁 Outcome
+## 🏁 Outcome
 
 A visually interactive dashboard that empowers retail decision-makers to:
 
+![Image](Screenshots/Screenshot1.jpg)
+
 - Track sales and profit KPIs at a glance.
+
+  ![Image](Screenshots/Screenshot2.jpg)
 
 - Quickly filter and explore performance drivers.
 
+  ![Image](Screenshots/Screenshot3.jpg)
+
 - Identify growth opportunities and operational inefficiencies.
+
+  ![Image](Screenshots/Screenshot4.jpg)
 
 (The Dahboard broke down due to some connections between the pivot table and dashboard though there's a video demo provided.)
 
-🎥 [!Watch the Demo Video](/Demo video/SuperStore Dashboard Video Demo.mp4)
+🎥[Download Demo Video](Demovideo/SuperStoreDashboardVideoDemo.mp4)
 
-### Contact info
+## 📬 Contacts
+
+- **Author:** Sammy Macharia 
+
+- **Email:** [macharias738@gmail.com](mailto:macharias738@gmail.com)
+
+- **LinkedIn:** [linkedin.com/in/Sammy Macharia](https://linkedin.com/in/sammy-macharia)  
+- **GitHub:** [github.com/Sammy-751](https://github.com/Sammy-751)
+
+---
