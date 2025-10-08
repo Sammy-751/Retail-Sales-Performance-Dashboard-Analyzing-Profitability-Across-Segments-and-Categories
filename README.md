@@ -72,6 +72,6 @@ A visually interactive dashboard that empowers retail decision-makers to:
 
 (The Dahboard broke down due to some connections between the pivot table and dashboard though there's a video demo provided.)
 
-🎥 [Watch the Demo Video](!/Demo video/SuperStore Dashboard Video Demo.mp4)
+🎥 [!Watch the Demo Video](/Demo video/SuperStore Dashboard Video Demo.mp4)
 
 ### Contact info
