@@ -28,31 +28,31 @@ To build an interactive Excel dashboard that:
 
 ### 📊 Key Metrics Displayed
 
-Total Sales (KES)
+- Total Sales (KES)
 
-Total Profit (KES)
+- Total Profit (KES)
 
-Profit % (Margin)
+- Profit % (Margin)
 
-Sales by Month (trend analysis)
+- Sales by Month (trend analysis)
 
-Quantity Sold by Month
+- Quantity Sold by Month
 
-Sales by Sub-Category
+- Sales by Sub-Category
 
-Segment and Region performance
+- Segment and Region performance
 
-Order Class Distribution (pie chart)
+- Order Class Distribution (pie chart)
 
 ### 💡 Insights Highlighted
 
-Technology category and Consumer segment are major revenue drivers.
+- Technology category and Consumer segment are major revenue drivers.
 
-Sales show a steady rise toward year-end, indicating seasonal demand.
+- Sales show a steady rise toward year-end, indicating seasonal demand.
 
-Specific sub-categories (like Chairs, Machines, and Storage) contribute disproportionately to profits — consistent with Price’s Law dynamics.
+- Specific sub-categories (like Chairs, Machines, and Storage) contribute disproportionately to profits — consistent with Price’s Law dynamics.
 
-Standard Class orders dominate overall shipping, suggesting optimization potential in other classes.
+- Standard Class orders dominate overall shipping, suggesting optimization potential in other classes.
 
 ### 🧰 Tools Used
 
@@ -71,5 +71,7 @@ A visually interactive dashboard that empowers retail decision-makers to:
 - Identify growth opportunities and operational inefficiencies.
 
 (The Dahboard broke down due to some connections between the pivot table and dashboard though there's a video demo provided.)
+
+🎥 [Watch the Demo Video](!/Demo video/SuperStore Dashboard Video Demo.mp4)
 
 ### Contact info
